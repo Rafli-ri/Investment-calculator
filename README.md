@@ -8,7 +8,8 @@ Link : https://calculator-investment.netlify.app
 ![image](https://github.com/Rafli-ri/Investment-calculator/assets/55773671/ea1798df-6595-4dcc-81e2-4fc5e8c98e19)
 
 2. After click Calculate
-   ![image](https://github.com/Rafli-ri/Investment-calculator/assets/55773671/ea1798df-6595-4dcc-81e2-4fc5e8c98e19)
+   ![image](https://github.com/Rafli-ri/Investment-calculator/assets/55773671/abee04a6-cdfc-4342-b0ad-6ac067d73aa6)
+
 
    
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
